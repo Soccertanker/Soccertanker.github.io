@@ -4,7 +4,6 @@ title: Sourdough
 nav_order: 3
 permalink: /food/sourdough/
 parent: Food
-latex: true
 ---
 
 The method to make sourdough bread is not simple. On top of the below details, you need to maintain a healthy sourdough starter. I will not cover that on this website because it is covered everywhere on the internet and in books.
@@ -20,9 +19,9 @@ I usually make loaves using 2 - 4 cups of flour. Below is a table showing rough 
 | Ingredient | Amount per 1 cup flour | Comments |
 | --- | --- | --- |
 | Flour | 1 cup | I only use whole wheat flour, because white flour was not traditionally used. White flour requires heavy industrial machinery to be mass produced. |
-| Water | $$ \frac{1}{4} $$ to $$ \frac{1}{2} $$ cup | This will vary a lot depending on what type of flour is used. Whole wheat flour needs much more water than white flour because whole wheat absorbs so much water. |
-| Salt | $$ \frac{1}{2} $$ teaspoon | Bread is better with a lot of salt. This is not just a little pinch of salt. |
-| Sourdough starter | $$ \frac{1}{4} $$ cup | This can vary a ton and results will probably be fine. Experiment to find what works best with your starter. Make sure the starter is active and has been fed in roughly last 8-24 hours. |
+| Water | quarter to half cup | This will vary a lot depending on what type of flour is used. Whole wheat flour needs much more water than white flour because whole wheat absorbs so much water. |
+| Salt | half teaspoon | Bread is better with a lot of salt. This is not just a little pinch of salt. |
+| Sourdough starter | quarter cup | This can vary a ton and results will probably be fine. Experiment to find what works best with your starter. Make sure the starter is active and has been fed in roughly last 8-24 hours. |
 
 # Method
 
