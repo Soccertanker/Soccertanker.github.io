@@ -1,0 +1,10 @@
+title: Information
+email: e.smith.py@gmail.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  Soccertanker
+
+# Build settings
+remote_theme: pmarsceill/just-the-docs
+plugins:
+  - jekyll-feed
