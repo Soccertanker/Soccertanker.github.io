@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Books
-nav_order: 2
 permalink: /food/books/
 parent: Food
 ---

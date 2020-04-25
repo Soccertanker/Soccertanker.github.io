@@ -1,7 +1,6 @@
 ---
 layout: default
 title: My Digestive Issues
-nav_order: 5
 permalink: /food/myDigestiveIssues/
 parent: Food
 ---

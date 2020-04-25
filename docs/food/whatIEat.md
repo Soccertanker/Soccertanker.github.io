@@ -1,16 +1,21 @@
 ---
 layout: default
 title: What I Eat
-nav_order: 4
 permalink: /food/whatIEat/
 parent: Food
 ---
 
 *I'm not 100% strict on my diet. I probably adhere 90% to my diet principles. Sometimes, I still consciously eat foods that I think are unhealthy.*
 
+# Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 # My Diet Logic
 
-I've believed this logic since I was 13 years old, but only implemented it all into my diet when I was 22, after having severe digestive issues, explained in my post about [digestive issues](/food/digestiveIssues). This is the only diet I tried that completely eliminated all of my digestive issues.
+I've believed this logic since I was in high school, but only implemented it all into my diet when I was 22, after having severe digestive issues, explained in my post about [digestive issues](/food/digestiveIssues). This is the only diet I tried that completely eliminated all of my digestive issues.
 
 I believe that cultures evolved their diets to make foods more digestible and more nutritious. This view follows the [Weston A. Price Foundation](https://www.westonaprice.org/)'s stance on diet. [**Here is a video**](https://www.youtube.com/watch?v=b-WKkCIpNxQ) by Sarah Pope from the Weston A. Price Foundation that explains traditional eating much better than I could.
 
@@ -94,3 +99,28 @@ I rarely eat any of these foods if they are not prepared properly because they g
 | Sourdough bread | Traditionally, all bread was leavened with yeast from sourdough starter. Baker's yeast was developed in the 1900s and is an industrial product; bread made from baker's yeast is not easy to digest. Also bread was traditionally made from whole grain flours rather than white flours. |
 | Oatmeal | Oats should be fermented then cooked. Oats can be fermented using different starter cultures including sauerkraut juice, sourdough starter, yogurt, and milk kefir. |
 | Corn | Corn should be nixtamalized by soaking in lime (not the fruit), and possibly fermenting. If a corn tortilla does not have trace amounts of lime as an ingredient, the corn is not nixtamalized and may be hard to digest. |
+
+## Other Products including Condiments
+
+The healthiest oils are fats from healthy pasture-raised animals. Saturated fat is healthy. The only oils that should be cooked with are oils high in saturated fats; animal fats, coconut oil, palm oil. Other oils were not traditionally cooked with and I personally get very oily skin and acne if I eat oils that are low in saturated fat.
+
+I eat raw honey somewhat regularly. I craved and ate honey constantly when I was recovering from digestive issues, and it probably helped me gain weight when I needed to. I let myself eat as much honey as I want, but I just don't crave it much and can't eat much of it.
+
+| Food | Comments |
+| --- | --- |
+| Refined oils | These oils are made using chemicals, and were not made until the 1900s. This includes soybean oil, corn oil, and many other "healthy" vegetable oils. |
+| Unrefined, pressed oils | These oils are traditionally extracted. They include some olive oils, coconut oils, palm oils, etc. |
+| Raw honey | Honey should be raw. Raw honey is good for fermenting some veggies. |
+| Maple syrup | This should be real maple syrup, not Aunt Jemima's or Mrs. Buttersworth's. |
+| Herbs and spices | These are good of course, as long as they don't have artificial additives. |
+
+
+# Foods that I almost never eat
+
+There are some foods that I think are unhealthy enough that I just avoid.
+
+| Food | Comments |
+| --- | --- |
+| Non-fermented wheat products | No cookies, cakes, non-sourdough bread, etc. I make my own sourdough bread products like pizza, baguettes, boules, etc.|
+| Non-fermented beans and nuts | This includes any trail mix, "health" protein bars, common soy products, etc. |
+| High fructose corn syrup | Obviously, this is not healthy or natural. Foods with a lot more fructose than glucose tend to ferment quickly in the gut, which can cause digestive issues. |

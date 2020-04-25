@@ -1,16 +1,22 @@
 ---
 layout: default
 title: Sourdough
-nav_order: 3
 permalink: /food/sourdough/
 parent: Food
+use_latex: true
 ---
 
-The method to make sourdough bread is not simple. On top of the below details, you need to maintain a healthy sourdough starter. I will not cover that on this website because it is covered everywhere on the internet and in books.
+The method to make sourdough bread is not simple. On top of the below details, you need to maintain a healthy sourdough starter. I will not cover that on this website because it is covered elsewhere on the internet and in books.
 
 I won't write tons of fluff in this intro. The only important thing I want to say is that when I began making sourdough bread, I was intimidated by all of the steps and methods for making the bread. I did not want to proof, shape, stretch and fold, and knead the dough. I wanted to take shortcuts and still make good bread. I never made a good loaf by taking shortcuts. After months of experience, making at least 2 loaves per week, I have learned that the only way to make a good loaf, and consistently make good loaves, is to follow all of the steps and pay attention to all of the little factors that affect the end product.
 
 It is time consuming and daunting, but if we want to make good bread, we need to put the effort in.
+
+# Table of Contents
+{: .no_toc .text-delta }
+
+1. Table of Contents placeholder text
+{:toc}
 
 # Ingredients
 
@@ -19,9 +25,9 @@ I usually make loaves using 2 - 4 cups of flour. Below is a table showing rough 
 | Ingredient | Amount per 1 cup flour | Comments |
 | --- | --- | --- |
 | Flour | 1 cup | I only use whole wheat flour, because white flour was not traditionally used. White flour requires heavy industrial machinery to be mass produced. |
-| Water | quarter to half cup | This will vary a lot depending on what type of flour is used. Whole wheat flour needs much more water than white flour because whole wheat absorbs so much water. |
-| Salt | half teaspoon | Bread is better with a lot of salt. This is not just a little pinch of salt. |
-| Sourdough starter | quarter cup | This can vary a ton and results will probably be fine. Experiment to find what works best with your starter. Make sure the starter is active and has been fed in roughly last 8-24 hours. |
+| Water | $$ \frac{1}{4} $$ to $$ \frac{1}{2}  $$ cup | This will vary a lot depending on what type of flour is used. Whole wheat flour needs much more water than white flour because whole wheat absorbs so much water. |
+| Salt | $$ \frac{1}{2} $$ teaspoon | Bread is better with a lot of salt. This is not just a little pinch of salt. |
+| Sourdough starter | $$ \frac{1}{4} $$ cup | This can vary a ton and results will probably be fine. Experiment to find what works best with your starter. Make sure the starter is active and has been fed in roughly the last 8-24 hours. |
 
 # Method
 
@@ -33,7 +39,7 @@ This allows the flour to absorb water and makes the dough easier to work with an
 
 * Mix flour and water, so all flour is moist.
 	* Do not add starter and salt yet. The dough should be pretty thick, very hard to mix with a mixing tool, and not too wet. The wetter the dough is, the harder it will be to work with, but the more moist the bread will be.
-* Place dough in a container and cover with a moist towel. Let sit for .5 - 1 hour. 
+* Place dough in a container and cover with a moist towel. Let sit for $$ \frac{1}{2} $$ - 1 hour. 
 
 ## Mix in All Ingredients and Knead
 
@@ -59,7 +65,7 @@ These stretch and fold sequences strengthen the glutens in the dough and make th
 This is to ensure that dough is strong and stretchy enough for further processing.
 image.png
 
-If you stretch part of the dough, and it stretches thin enough to see through it without ripping, the dough is strong enough and the stretch and fold sequences can be HALTED.
+If you stretch part of the dough, and it stretches thin enough to see through it without ripping, the dough is strong enough and the stretch and fold sequences can be ended.
 
 ### How to do a Stretch and Fold 
 
@@ -68,7 +74,7 @@ It's probably easiest to use youtube to learn how. [Here](https://www.youtube.co
 * While dough is in bowl, gently grab a side of the dough ball between thumb and index finger.
 * Gently pull dough up to stretch away from dough ball, then fold this over the center of the ball.
 * Rotate dough 45 degrees, and gently pull the side of dough up again. Repeat this until the dough does not stretch much anymore.
-	* Usually once you go around the dough one complete time, the dough stiffens up and the stretch and fold can be HALTED.
+	* Usually once you go around the dough one complete time, the dough stiffens up and the stretch and fold can be ended.
 * Let dough sit in the bowl with moist towel covering until next step, whether it be stretch and fold or shaping the dough.
 
 ## Bulk Fermentation
@@ -102,7 +108,7 @@ For a sourdough boule, I dust the top side of the dough ball with flour and plac
 	* Cooking vessel should have some way of making sure bread won't stick to it. I use butter or ghee.
 	* I use a cast iron pan for baking sourdough boules.
 * Once cooking vessel is hot, remove it, and place bread dough onto it.
-* Score the dough with a 1/4 to 1/2 inch deep cut across the top of the dough.
+* Score the dough with a $$ \frac{1}{4} $$  to $$ \frac{1}{2} $$ inch deep cut across the top of the dough.
 	* Use a very sharp knife or razer blade to do this, so dough doesn't get dragged with the blade.
 * Place a pan or glass baking sheet with water into the oven, to steam the oven.
 	* This makes the bread product have a crispy crust.

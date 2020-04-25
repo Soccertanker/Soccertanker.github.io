@@ -1,0 +1,37 @@
+//
+// Custom overrides from a user.
+//
+
+.page-content {
+	ol {
+		> li {
+			&::before {
+				color: $brown-dk-000;
+			}
+		}
+	}
+
+	ul {
+		> li {
+			&::before {
+				color: $brown-dk-000;
+			}
+		}
+	}
+}
+
+h5,
+.text-epsilon {
+	color: $brown-dk-100;
+}
+
+h6,
+.text-zeta {
+	color: $brown-dk-100;
+}
+
+.breadcrumb-nav-list-item {
+	&::after {
+		color: $brown-dk-100;
+	}
+}

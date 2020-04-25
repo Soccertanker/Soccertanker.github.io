@@ -1,4 +1,4 @@
-title: Information
+title: Soccertanker Stuff
 email: e.smith.py@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -7,4 +7,13 @@ github_username:  Soccertanker
 # Build settings
 remote_theme: pmarsceill/just-the-docs
 plugins:
-  - jekyll-feed
+  - jekyll-seo-tag
+
+compress_html:
+        blanklines: true
+
+color_scheme: "nil"
+
+latex:
+        source: https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-AMS_CHTML
+        config: 'MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "AMS" } } })'
