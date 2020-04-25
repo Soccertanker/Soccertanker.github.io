@@ -1,0 +1,8 @@
+{% if page.use_latex %}
+  <script type="text/x-mathjax-config">
+    {{ site.latex.config }};
+  </script>
+  <script type="text/javascript" async 
+    src="{{ site.latex.source }}">
+  </script>
+{% endif %}
