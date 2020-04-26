@@ -12,11 +12,11 @@ I won't write tons of fluff in this intro. The only important thing I want to sa
 
 It is time consuming and daunting, but if we want to make good bread, we need to put the effort in.
 
-# Table of Contents
-{: .no_toc .text-delta }
+# Page Contents
+{: .no_toc .text-mono }
 
-1. Table of Contents placeholder text
-{:toc}
+1. TOC placeholder text
+{:toc .text-mono }
 
 # Ingredients
 

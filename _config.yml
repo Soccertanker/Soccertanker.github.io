@@ -12,10 +12,29 @@ plugins:
 compress_html:
         blanklines: true
 
-color_scheme: nil
+color_scheme: ""
 
 latex:
         source: https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-AMS_CHTML
         config: 'MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "AMS" } } })'
 
-footer_content: nil
+footer_content: ""
+
+# url of logo that shows at website's title
+# logo: "/assets/images/logo_title.gif"
+
+# enable site search
+search_enabled: true
+
+# enable support for hyphenated search words:
+search_tokenizer_separator: /[\s/]+/
+
+aux_links:
+        "Website source code":
+                - "//github.com/soccertanker/soccertanker.github.io"
+
+# enable links to headers
+heading_anchors: true
+
+
+
