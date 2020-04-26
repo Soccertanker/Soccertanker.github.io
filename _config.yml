@@ -18,7 +18,8 @@ latex:
         source: https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-AMS_CHTML
         config: 'MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "AMS" } } })'
 
-footer_content: ""
+# text at bottom of page
+footer_content: "Contact me at <a href=\"mailto:e.smith.py@gmail.com?subject=Soccertanker Stuff Query\">e.smith.py@gmail.com</a>."
 
 # url of logo that shows at website's title
 # logo: "/assets/images/logo_title.gif"
