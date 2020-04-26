@@ -60,7 +60,7 @@ This is when I decided I would follow my current diet. I was honestly 100% confi
 This is a list of the most noticeable symptoms I experienced in the 3 months of UC. There were other symptoms. Most of these symptoms worked together and influenced other symptoms.
 
 * Bloody diarrhea 15+ times per day
-	* I used the restroom at least once per hour during the day, and about every 2 hours at night. I would wake up needing to use the restroom, so I never slept well.
+	* For probably the first month, I used the restroom at least once per hour during the day, and about every 2 hours at night. I would wake up needing to use the restroom, so I never slept well.
 	* I needed to be close to an available restroom at all times. The restroom visits were often extremely urgent. I pooped my pants a few times because I could not get to a toilet quick enough. 
 * Anemia
 	* I lost a lot of blood. My lowest hemoglobin level was 8.8 g/dL. The normal level for men is 13.5 to 17.5 g/dL. I got two iron infusions to raise red blood cell count.
