@@ -5,13 +5,13 @@ permalink: /food/whatIEat/
 parent: Food
 ---
 
-*I'm not 100% strict on my diet. I probably adhere 90% to my diet principles. Sometimes, I still consciously eat foods that I think are unhealthy.*
+*I'm not 100% strict on my diet. I probably adhere 80% to my diet principles. Sometimes, I still consciously eat foods that I think are unhealthy.*
 
-# Table of Contents
-{: .no_toc .text-delta }
+# Page Contents
+{: .no_toc .text-mono .d-inline-block }
 
-1. TOC
-{:toc}
+1. TOC placeholder text
+{:toc .text-mono }
 
 # My Diet Logic
 
@@ -30,7 +30,7 @@ So I try to eat more foods that are prepared the same ways that our ancestors pr
 
 I try to buy high quality foods. I go for organic vegetables, pasture raised animal products, raw dairy, etc.
 
-These foods are usually more expensive than other options. However, I don't mind spending money on high quality foods because food is what keeps me healthy and keeps me away from potentially needing to buy expensive medicine. I actually save a lot of money by preparing almost all of my food.
+These foods are usually more expensive than other options. However, I don't mind spending money on high quality foods because food is what keeps me healthy and keeps me away from potentially needing to buy expensive medicine. Even though I buy expensive food, I save a lot of money by preparing almost all of my food.
 
 # Examples of What I Eat
 

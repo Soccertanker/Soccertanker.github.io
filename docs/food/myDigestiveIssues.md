@@ -5,7 +5,14 @@ permalink: /food/myDigestiveIssues/
 parent: Food
 ---
 
-First, I want to say that digestive issues can be very serious and they should not be ignored. In this post, I explain what I went through with digestive issues. I am writing this because it might help other people going through similar things. Please contact me about questions. The whole purpose of this is to help people, so don't hesitate to ask me questions. I don't want other people to struggle through this alone.
+First, I want to say that digestive issues can be very serious and they should not be ignored. They can require medical attention. In this post, I explain what I went through with digestive issues because it might help other people going through similar issues. The whole purpose of this is to help people, so don't hesitate to ask me questions.
+
+# Page Contents
+{: .no-toc .text-mono .d-inline-block }
+
+1. TOC placeholder text
+{:toc .text-mono }
+
 
 # Summary
 
