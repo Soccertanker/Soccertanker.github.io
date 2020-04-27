@@ -35,3 +35,27 @@ h6,
 		color: $brown-dk-100;
 	}
 }
+
+
+.navigation-list-item {
+	@include fs-8;
+
+	@include mq(md) {
+		@include fs-6;
+	}
+}
+.navigation-list-child-list {
+	.navigation-list-item {
+		padding-left: .8em;
+
+		&::before {
+			content: "";
+		}
+	}
+}
+
+.navigation-list-child-list {
+	.navigation-list-link {
+		@include fs-5;
+	}
+}
