@@ -1,8 +1,7 @@
 ---
 layout: default
 title: What I Eat
-permalink: /food/whatIEat/
-parent: Food
+permalink: /whatIEat/
 ---
 
 *I'm not 100% strict on my diet. I probably adhere 80% to my diet principles. Sometimes, I still consciously eat foods that I think are unhealthy.*
@@ -16,7 +15,7 @@ parent: Food
 
 # My Diet Logic
 
-I've believed this logic for a long time, but only implemented it all into my diet when I was 22, after having severe digestive issues, explained in my post about [digestive issues](/food/digestiveIssues). This is the only way of eating that completely eliminated all of my digestive issues.
+I've believed this logic for a long time, but only implemented it all into my diet when I was 22, after having severe digestive issues, explained in my post about [digestive issues](/digestiveIssues). This is the only way of eating that completely eliminated all of my digestive issues.
 
 I believe that cultures evolved their diets to make foods more digestible and more nutritious. Over thosuands of years, cultures learned how best to prepare their available plant and animal products to be as digestible as possible. This view follows the [Weston A. Price Foundation](https://www.westonaprice.org/)'s stance on diet. [**Here is a video**](https://www.youtube.com/watch?v=b-WKkCIpNxQ) by Sarah Pope from the Weston A. Price Foundation that explains traditional eating much better than I could.
 

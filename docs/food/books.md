@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Books
-permalink: /food/books/
-parent: Food
+permalink: /books/
 ---
 
 In this section, I talk about the books and websites that helped me learn about food and digestion.

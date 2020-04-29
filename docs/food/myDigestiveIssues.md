@@ -1,8 +1,7 @@
 ---
 layout: default
 title: My Digestive Issues
-permalink: /food/myDigestiveIssues/
-parent: Food
+permalink: /myDigestiveIssues/
 ---
 
 First, I want to say that digestive issues can be very serious and they should not be ignored. They can require medical attention. In this post, I explain what I went through with digestive issues because it might help other people going through similar issues. The whole purpose of this is to help people, so don't hesitate to ask me questions.
@@ -16,7 +15,7 @@ First, I want to say that digestive issues can be very serious and they should n
 
 # Summary
 
-I had chronic constipation for years when I was a teenager until I was 21 years old. In the summer of 2019, I then had crazy symptoms that made me go to the hospital, where I was diagnosed with ulcerative colitis (UC). The normal treatment for UC is steroid medicines for quick recovery and a maintenance drug for long-term prevention. The medicines did not seem to do anything for me, so I researched natural remedies. After about 3 months of suffering, I ended up healing myself of UC and constipation by changing my diet to an ancestral diet explained [in another post](/food/whatIEat).
+I had chronic constipation for years when I was a teenager until I was 21 years old. In the summer of 2019, I then had crazy symptoms that made me go to the hospital, where I was diagnosed with ulcerative colitis (UC). The normal treatment for UC is steroid medicines for quick recovery and a maintenance drug for long-term prevention. The medicines did not seem to do anything for me, so I researched natural remedies. After about 3 months of suffering, I ended up healing myself of UC and constipation by changing my diet to an ancestral diet explained [in another post](/whatIEat).
 
 # Ulcerative Colitis
 
@@ -53,7 +52,7 @@ I continuously resisted taking biologic drugs, until I was so physically weak th
 
 While I was at the hospital, I ate whatever I wanted for 3 days, because gastroenterologists think diet does not affect ulcerative colitis. I expected to have "reactions" to foods because of food sensitivities, but no direct reactions happened. However, after eating these foods, when I was released from the hospital, I had absolutely no energy and my worst symptoms all came back. This is bad logic, but I thought this probably meant that no one food causes my symptoms, and it was the conglomerate of all of these foods that made me sick.
 
-This is when I decided I would follow my current diet. I was honestly 100% confident that this would heal me. See the post about [what I eat](/food/whatIEat) to learn about my diet. I immediately started making all of my own food, with my parents help, as I was usually too weak to do anything. In a couple days, my energy came back, and within a week, my symptoms were almost all gone. I got off all medicine in the next couple weeks, have not done any medicine since, and have not experienced any of the symptoms again.
+This is when I decided I would follow my current diet. I was honestly 100% confident that this would heal me. See the post about [what I eat](/whatIEat) to learn about my diet. I immediately started making all of my own food, with my parents help, as I was usually too weak to do anything. In a couple days, my energy came back, and within a week, my symptoms were almost all gone. I got off all medicine in the next couple weeks, have not done any medicine since, and have not experienced any of the symptoms again.
 
 ## Symptoms I Experienced
 

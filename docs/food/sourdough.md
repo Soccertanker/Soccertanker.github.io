@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Sourdough
-permalink: /food/sourdough/
-parent: Food
+permalink: /fermenting/sourdough/
+parent: Fermenting
 use_latex: true
 ---
 
