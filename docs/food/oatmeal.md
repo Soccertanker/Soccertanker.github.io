@@ -25,7 +25,7 @@ This is a case of people favoring convenience and ignoring the knowledge of our 
 # Starting a Batch
 
 | Item or ingredient | Amount per 1 cup oats or porridge | Comments |
-| --- | --- |
+| --- | --- | --- |
 | Oats or porridge mix | 1 cup | I have fermented rolled oats, steel cut oats, and quick oats. They all work and can be interchanged and mixed. Any other porridge grain should work just fine. The grains should be cracked, rolled, or cut so the inner starches are available to microbes for fermenting. |
 | Filtered water | 2 cups | The water should have no chlorine or chloramine, as this weakens or kills microbes. Activated carbon filters like Brita filters remove these chemicals. |
 | Glass container | N/A | This is the fermenting vessel. I use a 1 quart glass mason jar. |
@@ -37,7 +37,7 @@ This is a case of people favoring convenience and ignoring the knowledge of our 
 
 ## Choosing a Starter or Acidic Liquid
 
-Good options:
+**Good options:**
 * Sourdough starter
 * Sauerkraut juice or juice from any fermented vegetable
 	* This should be a live ferment with microbes -- not the dead saurkraut in jars at some grocery stores.
