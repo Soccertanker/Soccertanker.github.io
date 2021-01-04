@@ -5,14 +5,15 @@ url: "//soccertanker.github.io" # the base hostname & protocol for your site, e.
 github_username:  Soccertanker
 
 # Build settings
-remote_theme: pmarsceill/just-the-docs
+remote_theme: pmarsceill/just-the-docs@v0.2.8
 plugins:
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 compress_html:
         blanklines: true
 
-color_scheme: ""
+# color_scheme: ""
 
 latex:
         source: https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-AMS_CHTML
@@ -36,6 +37,3 @@ aux_links:
 
 # enable links to headers
 heading_anchors: true
-
-
-
