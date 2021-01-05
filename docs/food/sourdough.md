@@ -60,10 +60,10 @@ These stretch and fold sequences strengthen the glutens in the dough and make th
 
 * Every 30-45 minutes, do a stretch and fold on the dough. Do this 4-6 times, or until the dough passes the windowpane test. Place the dough back in the bowl, covered with a moist towel, between stretch and folds.
 
-### WindowPane Test
+### Windowpane Test
 
 This is to ensure that dough is strong and stretchy enough for further processing.
-image.png
+See [this youtube video](https://www.youtube.com/watch?v=RgEeHKTyowo&ab_channel=MakeBread) for a demonstration of the windowpane test.
 
 If you stretch part of the dough, and it stretches thin enough to see through it without ripping, the dough is strong enough and the stretch and fold sequences can be ended.
 
