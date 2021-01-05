@@ -59,3 +59,8 @@ h6,
 		@include fs-5;
 	}
 }
+
+// shrink all images on the "One Week of Eating" doc
+img[alt^=day] {
+	width: 200px;
+}
